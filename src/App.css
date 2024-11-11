@@ -1,0 +1,9 @@
+.aim{
+    font-size: 40vw;
+    text-transform: uppercase;
+}
+.box{
+    position: relative;
+    top: -40rem;
+    z-index: 10;
+}
